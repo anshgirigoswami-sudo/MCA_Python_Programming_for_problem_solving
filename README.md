@@ -101,7 +101,7 @@ shapes/
 
 - Python 3.x
 - Jupyter Notebook
-- Required libraries: NumPy, Pandas, Matplotlib (for specific experiments)
+- Required libraries: NumPy, Pandas, Matplotlib, Seaborn (for visualization in lab `exp_18.ipynb`)
 
 ## How to Use
 
