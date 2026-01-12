@@ -7,19 +7,19 @@ This repository contains Python programming assignments and practical records fo
 ```
 Ansh/Python/
 ├── Lab assisment/
-│   ├── Experiments (exp_1 to exp_15)
+│   ├── Experiments (exp_1 to exp_18)
 │   ├── Data files (employees.csv, sample.txt)
 │   ├── Python modules (main.py)
 │   └── Shape packages (shape/, shapee/, shapes/)
 └── Pratical record/
-    ├── Experiments (exp_1 to exp_19)
-    ├── Data files (sample.txt)
-    └── Shape package (shapes/)
+   ├── Experiments (exp_1 to exp_19)
+   ├── Data files (sample.txt)
+   └── Shape package (shapes/)
 ```
 
 ## Lab Assignments
 
-The `Lab assisment/` directory contains 15 experiments covering various Python programming concepts:
+The `Lab assisment/` directory contains 18 experiments covering various Python programming concepts:
 
 ### Experiments List
 
@@ -39,6 +39,9 @@ The `Lab assisment/` directory contains 15 experiments covering various Python p
 | **exp_13.ipynb** | Algorithm implementation |
 | **exp_14.ipynb** | Python libraries usage |
 | **exp_15.ipynb** | Advanced topics |
+| **exp_16.ipynb** | Basic EDA on student performance (Pandas) |
+| **exp_17.ipynb** | Sales data analysis (groupby, aggregation, sorting) |
+| **exp_18.ipynb** | Employee data visualization (Matplotlib/Seaborn) |
 
 ### Additional Files
 
